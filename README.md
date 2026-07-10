@@ -1,6 +1,38 @@
 # Geração Automática de Legendas para Imagens (Image Captioning)
 
-Este projeto implementa um sistema de geração automática de legendas para imagens utilizando técnicas de aprendizado profundo. A abordagem combina encoders de redes neurais convolucionais pré-treinadas com decoders baseados em LSTM, GRU e Transformer. O desempenho é comparado utilizando a métrica BLEU.
+Este projeto implementa um sistema de geração automática de legendas para imagens utilizando técnicas de aprendizado profundo. A abordagem combina encoders de redes neurais convolucionais pré-treinadas com decoders baseados em LSTM, GRU e Transformer. O desempenho é comparado utilizando a métrica BLEU. 
+
+## Outros projetos de Deep Learning
+
+Confira também meus outros projetos desenvolvidos com foco em visão computacional e aprendizado profundo:
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🐦 Classificação de Espécies de Pássaros</h3>
+      <p>
+        Sistema de classificação de imagens desenvolvido para identificar diferentes espécies de pássaros utilizando Deep Learning.
+      </p>
+      <a href="https://github.com/HugoFreitass/Classificador-de-especies-de-passaros">
+        <img src="https://img.shields.io/badge/Ver_projeto-Classificador_de_Pássaros-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Classificador de espécies de pássaros">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🖼️ Super-Resolução de Imagens</h3>
+      <p>
+        Implementação de uma ESRGAN adaptada para ampliar imagens em 2× e recuperar detalhes visuais perdidos.
+      </p>
+      <a href="https://github.com/HugoFreitass/Super-resolucao-com-deep-learning">
+        <img src="https://img.shields.io/badge/Ver_projeto-Super--Resolução-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Super-resolução com Deep Learning">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <sub>Explore os repositórios para conhecer outras aplicações de Deep Learning e visão computacional.</sub>
+</div>
+
 
 ---
 
